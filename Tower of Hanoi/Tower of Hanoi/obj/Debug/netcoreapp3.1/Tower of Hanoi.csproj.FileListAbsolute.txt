@@ -1,0 +1,13 @@
+C:\Users\erkel\Desktop\Tower of Hanoi\Tower of Hanoi\bin\Debug\netcoreapp3.1\Tower of Hanoi.exe
+C:\Users\erkel\Desktop\Tower of Hanoi\Tower of Hanoi\bin\Debug\netcoreapp3.1\Tower of Hanoi.deps.json
+C:\Users\erkel\Desktop\Tower of Hanoi\Tower of Hanoi\bin\Debug\netcoreapp3.1\Tower of Hanoi.runtimeconfig.json
+C:\Users\erkel\Desktop\Tower of Hanoi\Tower of Hanoi\bin\Debug\netcoreapp3.1\Tower of Hanoi.runtimeconfig.dev.json
+C:\Users\erkel\Desktop\Tower of Hanoi\Tower of Hanoi\bin\Debug\netcoreapp3.1\Tower of Hanoi.dll
+C:\Users\erkel\Desktop\Tower of Hanoi\Tower of Hanoi\bin\Debug\netcoreapp3.1\Tower of Hanoi.pdb
+C:\Users\erkel\Desktop\Tower of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.csprojAssemblyReference.cache
+C:\Users\erkel\Desktop\Tower of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.AssemblyInfoInputs.cache
+C:\Users\erkel\Desktop\Tower of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.AssemblyInfo.cs
+C:\Users\erkel\Desktop\Tower of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\erkel\Desktop\Tower of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.dll
+C:\Users\erkel\Desktop\Tower of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.pdb
+C:\Users\erkel\Desktop\Tower of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.genruntimeconfig.cache

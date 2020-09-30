@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HnPou4inan7jHG79qaa9wagxBbvVIXav7Uk38J2daPBy0P+wWAtaUoskdxSX2ls6QCsPeN+5EWbr0xdX7fDCLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erkel\\Desktop\\Tower of Hanoi\\Tower of Hanoi\\Tower of Hanoi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erkel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
